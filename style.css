@@ -1,0 +1,18 @@
+
+.jumbotron-fluid {
+    background-color: rgb(212, 231, 231);
+    margin-top: 20px;
+    padding: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+
+.navbar {
+    background-color: #5D0247;
+}
+
+.btn-color {
+    background-color: #811666;
+    color: white;
+}
